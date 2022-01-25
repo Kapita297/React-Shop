@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kapita297/React-Shop/static/css/main.407f95f3.css",
+    "main.js": "/Kapita297/React-Shop/static/js/main.9ef76ec4.js",
+    "index.html": "/Kapita297/React-Shop/index.html",
+    "main.407f95f3.css.map": "/Kapita297/React-Shop/static/css/main.407f95f3.css.map",
+    "main.9ef76ec4.js.map": "/Kapita297/React-Shop/static/js/main.9ef76ec4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407f95f3.css",
+    "static/js/main.9ef76ec4.js"
+  ]
+}
