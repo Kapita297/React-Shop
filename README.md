@@ -1,3 +1,3 @@
 # React shop portfolio project
 
- [This is Project](https://kapita297.github.io/React-Shop/).
+ [This is Project](https://Kapita297.github.io/React-Shop/).
